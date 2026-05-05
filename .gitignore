@@ -1,0 +1,4 @@
+# Environment files (VERY IMPORTANT)
+.env
+.env.backup
+.env.production
